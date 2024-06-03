@@ -24,17 +24,12 @@ Here are quick links to access:
 
 Please find below screenshots of weather app:
 
-  ![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/93a431cd-7e4c-41d9-a517-7bec8784d028)                                
-  
-  ![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/fe114a05-6d5b-4295-8039-5fc40fd0cbdb)
-
-
-![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/bcadb36f-5f09-4498-9554-a6e57f0b8951)
-
-![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/9852fc96-86d2-444b-9ae3-91ba13d377f5)
+ 
 
 
  
+
+
 
 
 
