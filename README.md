@@ -1,18 +1,40 @@
-# Salesforce DX Project: Next Steps
+# Weather App
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+This is an guided LWC project created to demonstarte various LWC concepts. This is a web based application integrated with 3rd party open weather API (link) using REST API Call. Demonstrates how client side and server side api call happens and how a server side API call is more secure that client side API call.
 
-## How Do You Plan to Deploy Your Changes?
+Here the Server side call is made by creating a APEX class which communicates to 3rd Party API using REST API. Guest users can be given access to APEX class through guest user profile.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+Client side call can be made using FetchApi.
 
-## Configure Your Salesforce DX Project
+Apart from API call this project covers various other LWC concepts like:
+- Data Binding
+- Using static resources in JS
+- Dynamic styling
+- Conditional Rendering
+- Using SLDS built in classes for styling
+- Styling using custom CSS
+- 3rd party API call
+- Remote site settings
+- How to provide access to Apex class to guest user
+- Exposing LWC componenet to Experience site.
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+Here are quick links to access:
+  - Link to access weather app:: https://practice-proj-dev-ed.develop.my.site.com/weatherApp/
+  - Link to access open weather api:: https://openweathermap.org/
 
-## Read All About It
+Please find below screenshots of weather app:
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+  ![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/93a431cd-7e4c-41d9-a517-7bec8784d028)                                
+  
+  ![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/fe114a05-6d5b-4295-8039-5fc40fd0cbdb)
+
+
+![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/bcadb36f-5f09-4498-9554-a6e57f0b8951)
+
+![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/9852fc96-86d2-444b-9ae3-91ba13d377f5)
+
+
+ 
+
+
+
