@@ -22,9 +22,15 @@ Here are quick links to access:
   - Link to access weather app:: https://practice-proj-dev-ed.develop.my.site.com/weatherApp/
   - Link to access open weather api:: https://openweathermap.org/
 
- 
+ Please find below screenshots of weather app:
 
+ ![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/9b5e132d-a187-4d38-a9e1-87b3f047ca46)
 
+ ![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/2e5d49fc-7b28-4b25-a078-b8c05ef40e62)
+
+![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/e32161b1-4f7d-4bce-9b00-ae8732ff0e05)
+
+![image](https://github.com/dMaliGithub/LWC_weather_app/assets/161150399/9b6eeb3f-8a32-4a81-ae80-c5270ad399f0)
 
 
 
