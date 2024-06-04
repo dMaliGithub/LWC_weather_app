@@ -22,11 +22,6 @@ Here are quick links to access:
   - Link to access weather app:: https://practice-proj-dev-ed.develop.my.site.com/weatherApp/
   - Link to access open weather api:: https://openweathermap.org/
 
-Please find below screenshots of weather app:
-
- 
-
-
  
 
 
